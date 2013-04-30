@@ -1,0 +1,1 @@
+﻿msbuild /p:Configuration=Release .\SomeProject.sln
